@@ -1,9 +1,9 @@
-//Export as named module 
+//Export as a named module 
 export class MyNamedComponent {
 
 }
 
-//Export as default module 
+//Export as a default module 
 class MyComponent {
 
 }
