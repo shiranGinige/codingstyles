@@ -1,0 +1,5 @@
+export const ACTIONS =
+    {
+        GET_SOME_DATA: "GET_SOME_DATA",
+        GET_SOME_DATA_SUCCESS: "GET_SOME_DATA_SUCCESS"
+    }
